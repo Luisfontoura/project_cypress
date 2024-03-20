@@ -2,9 +2,13 @@
   "name": "cadastro-funcionarios",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "puvlic/index.html ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luisfontoura/project_cypress.git"
   },
   "keywords": [],
   "author": "",
