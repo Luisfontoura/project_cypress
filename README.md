@@ -20,11 +20,6 @@ Execute o Cypress para configurar a estrutura do projeto:
 
 npx cypress open
 
-## Uso
-
-Após instalar as dependências e configurar o Cypress, você pode executar os testes automatizados seguindo estes passos:
-
-
 ## GitHub Actions
 Este projeto está integrado a uma pipeline no GitHub Actions, que é acionada automaticamente em determinados eventos, como pushs ou pull requests no repositório. A pipeline executa os testes automatizados usando o Cypress, garantindo a integridade do código em cada alteração.
 
