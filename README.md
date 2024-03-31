@@ -12,7 +12,7 @@ Clone este repositório:
 
 git clone https://github.com/Luisfontoura/project_cypress.git
 
-Instale as dependências do Cypress:
+Instale o Cypress localmente como uma dependência de desenvolvimento para o seu projeto:
 
 npm install cypress --save-dev
 
